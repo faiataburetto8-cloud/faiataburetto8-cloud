@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**faiataburetto8-cloud/faiataburetto8-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I experiment with AI, automation, software, and everyday tech.
 
-Here are some ideas to get you started:
+I prefer testing things myself instead of repeating assumptions, and I write up what actually happened.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog
+
+**やってみんとわからん**
+
+https://yatteminto.com/
+
+Hands-on notes and experiments in Japanese and English.
